@@ -66,7 +66,7 @@ const TodoApp = () => {
     )
 }
 
-export default TodoApp
+export default TodoApp;
 
 const styles = StyleSheet.create({
     maincontainer: {
