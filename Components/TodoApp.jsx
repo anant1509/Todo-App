@@ -134,7 +134,6 @@ const styles = StyleSheet.create({
         flex: 1,
         marginRight: 10
     },
-
     itemtxt: {
         fontSize: 16,
         color: "#333",
